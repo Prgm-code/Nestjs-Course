@@ -1,3 +1,35 @@
+
+
+
+<h1>API Superflights</h1>
+
+    <h2>Descripción</h2>
+    <p>Este proyecto, denominado <strong>api-superflights</strong>, parece ser una API desarrollada con el marco <a href="https://nestjs.com/">NestJS</a>. Su versión actual es la <code>0.0.1</code>. El proyecto no tiene una descripción específica y está marcado como privado con licencia "UNLICENSED".</p>
+
+    <h2>Funcionalidades Principales</h2>
+    <ul>
+        <li><strong>Construcción y Arranque</strong>: Facilita la construcción y arranque en varios modos, incluyendo desarrollo, producción y debug.</li>
+        <li><strong>Formateo y Linting</strong>: Utiliza herramientas como Prettier y ESLint para mantener la calidad del código.</li>
+        <li><strong>Pruebas</strong>: Se apoya en Jest para ejecutar pruebas unitarias y end-to-end.</li>
+        <li><strong>Documentación</strong>: Incorpora Swagger para la documentación de la API.</li>
+    </ul>
+
+    <h2>Dependencias Principales</h2>
+    <ul>
+        <li>NestJS como marco principal.</li>
+        <li>Mongoose para interactuar con bases de datos MongoDB.</li>
+        <li>bcrypt para encriptación.</li>
+        <li>Swagger para documentación API.</li>
+    </ul>
+
+    <h2>Dependencias de Desarrollo</h2>
+    <ul>
+        <li>Herramientas de linting y formateo como ESLint y Prettier.</li>
+        <li>Jest para pruebas.</li>
+        <li>TypeScript y herramientas asociadas para el desarrollo.</li>
+    </ul>
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
